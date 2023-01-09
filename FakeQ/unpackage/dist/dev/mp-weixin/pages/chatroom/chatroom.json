@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "窗口",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "submit": "/components/submit/submit"
+  }
+}

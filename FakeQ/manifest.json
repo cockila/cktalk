@@ -1,0 +1,30 @@
+{
+    "h5" : {
+        "title" : "italk",
+        "domain" : "aoau.top",
+        "sdkConfigs" : {
+            "maps" : {
+                "qqmap" : {
+                    "key" : "4U6BZ-JCMCO-DBVW3-S62UT-76QCF-BLBT7"
+                }
+            }
+        }
+    },
+    "app-plus" : {
+        "modules" : {
+            "Record" : {},
+            "Geolocation" : {}
+        },
+        "distribute" : {
+            "sdkConfigs" : {
+                "maps" : {},
+                "speech" : {},
+                "geolocation" : {
+                    "system" : {
+                        "__platform__" : [ "ios", "android" ]
+                    }
+                }
+            }
+        }
+    }
+}

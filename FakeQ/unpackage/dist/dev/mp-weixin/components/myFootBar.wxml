@@ -1,0 +1,1 @@
+<view><foo-bar vue-id="651f0078-1" list="{{list}}" data-event-opts="{{[['^toIndex',[['toIndex']]]]}}" bind:toIndex="__e" bind:__l="__l"></foo-bar></view>

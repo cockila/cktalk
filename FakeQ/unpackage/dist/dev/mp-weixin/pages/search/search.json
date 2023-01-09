@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "my-foot-bar": "/components/myFootBar"
+  }
+}

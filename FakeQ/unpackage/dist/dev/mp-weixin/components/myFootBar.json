@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "foo-bar": "/components/yx-bottomBar/yx-bottomBar"
+  }
+}
